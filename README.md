@@ -11,13 +11,13 @@
 
 For any inquiries, suggestions, or feedback, reach out via:
 
- LinkedIn: Mohammed Saeed
+ LinkedIn: www.linkedin.com/in/mohammed-saeed-b8a5ba19b
 
  Email: mohamedsaied4556@gmail.com
 
  Phone: 01147534345
 
- WhatsApp: 01147534345**: mohamedsaied4556@gmail.com
+ WhatsApp: 01147534345
 
 Live Demo at https://mohammed-saeed111.github.io/responsive-watches-website/ ★
      
