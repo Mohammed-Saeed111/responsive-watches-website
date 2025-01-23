@@ -8,7 +8,6 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 Live Demo
-
-Explore the website here:    Mohammed-Saeed111/responsive-watches-website-1 ★
+Your site is live at https://mohammed-saeed111.github.io/responsive-watches-website/ ★
      
 ![preview img](/preview.png)
