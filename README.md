@@ -19,6 +19,6 @@ For any inquiries, suggestions, or feedback, reach out via:
 
  WhatsApp: 01147534345
 
-Live Demo at https://mohammed-saeed111.github.io/responsive-watches-website/ ★
+Live Demo at https://mohammed-saeed111.github.io/watches-website_HTML_CSS_JS/
      
 ![preview img](/preview.png)
